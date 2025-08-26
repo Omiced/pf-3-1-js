@@ -1,12 +1,11 @@
 // ========= Arturo Ramirez ==============
 
-// Funcion para que sume dos numeros
+// Función para que sume dos números y muestre en consola
 export function addTwoNumbers(num1, num2) {
-  return num1 + num2;
+  console.log(num1 + num2);
 }
 
 // =========== Tiempo Extra ===================
-
 
 // Función que resta dos números
 export function resta(num1, num2) {
@@ -32,9 +31,7 @@ export function encadenar(x, z, y) {
   console.log((x + z) - y);
 }
 
-
-console.log(addTwoNumbers(5, 7));
-resta(10, 4);
-division(10, 2);
-sumaDeTres(1, 2, 3);
-encadenar(1, 2, 3);
+addTwoNumbers(2, 3);
+addTwoNumbers(-2, -3);  
+addTwoNumbers(13, 26); 
+addTwoNumbers(-10, 30); 
