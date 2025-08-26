@@ -41,7 +41,7 @@ Está función debe:
 - Hacer una función que reste dos números
 - Hacer una función que divida dos números
 - Hacer una función que reciba 3 números y los sume
-- Hacer una función que permita encadenar operaciones con 3 datos de entrada
+- Hacer una función que permita encadenar opes con 3 datos de entrada
   Ejemplo 1+2-3
 
 ### ¿Dondé va tu código?
